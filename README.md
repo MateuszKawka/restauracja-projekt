@@ -1,3 +1,3 @@
 # projekt-restauracja
 
-https://mateuszkawka.github.io/projekt-restauracja/
+https://mateuszkawka.github.io/restauracja-projekt/
